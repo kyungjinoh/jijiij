@@ -33,7 +33,6 @@ const Footer: React.FC = () => {
           <ul className="footer-links">
             <li><a href="#upload">Begin Analysis</a></li>
             <li><a href="#how-it-works">Features</a></li>
-            <li><a href="#pricing">Pricing</a></li>
             <li><a href="#testimonials">Clinical Validation</a></li>
           </ul>
           {user ? (
